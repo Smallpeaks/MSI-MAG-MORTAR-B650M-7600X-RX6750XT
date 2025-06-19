@@ -1,12 +1,16 @@
 # HACKINTOSH MSI-MAG-MORTAR-B650M-7600X-RX6750XT
 
+### Use OpenCoreSimplify to help you to mount your EFI folder:
+
+https://github.com/lzhoang2801/OpCore-Simplify
+
 ![macOS](images/macos.png)
 
-**OpenCore : 0.9.6**
+**OpenCore : 1.0.5**
 
-**macOS ：13.6.1**
+**macOS ：15.5.5**
 
-**SMBIOS : MacPro7,1**
+**SMBIOS : iMacPro1,1**
 
 ### Specification
 
